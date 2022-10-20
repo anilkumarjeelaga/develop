@@ -9,4 +9,6 @@ text-align: center;
 text-overflow: clip;
 text-decoration: dotted;
 justify-content: center;
+font-size: 100%;
+text-align: justify;
 }
